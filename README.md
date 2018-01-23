@@ -15,15 +15,15 @@
 ---
 
 实例：
-	https://www.kjarbo.com/wp-content/uploads/2018/01/10a93b9d7a33a1144c98990a2366ef50.png
+	![](https://www.kjarbo.com/wp-content/uploads/2018/01/10a93b9d7a33a1144c98990a2366ef50.png)
 
-<<<<<<< HEAD
+
 	![](https://www.kjarbo.com/wp-content/uploads/2018/01/560449bd3d693ad1beee3df045c63514.png)
 	
 博客：
 ```
 www.kjarbo.com
 ```
-=======
-	https://www.kjarbo.com/wp-content/uploads/2018/01/560449bd3d693ad1beee3df045c63514.png
->>>>>>> 7033b00f867d9e218e90cb887216782272119188
+----
+
+
