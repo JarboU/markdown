@@ -19,7 +19,7 @@ def upload(request):
         up = UpFiles(request.POST, request.FILES)
         cc = UpFile(up_file=request.FILES['file'])
         cc.save()
-        url = str(cc.up_file)
+        url = 'http://127.0.0.1/' + str(cc.up_file)
         resp = {'success':1,'message': "6666",'url': url}
         return HttpResponse(json.dumps(resp), content_type="application/json")
     else:
