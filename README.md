@@ -12,6 +12,6 @@
 	
 ---
 实例：
-	![](https://www.kjarbo.com/wp-content/uploads/2018/01/10a93b9d7a33a1144c98990a2366ef50.png)
+	https://www.kjarbo.com/wp-content/uploads/2018/01/10a93b9d7a33a1144c98990a2366ef50.png
 
-	![](https://www.kjarbo.com/wp-content/uploads/2018/01/560449bd3d693ad1beee3df045c63514.png)
+	https://www.kjarbo.com/wp-content/uploads/2018/01/560449bd3d693ad1beee3df045c63514.png
